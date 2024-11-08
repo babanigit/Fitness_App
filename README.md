@@ -2,6 +2,7 @@
 
 A new Flutter project.
 
-![ss1](ss/appSS1.jpg)
+<img src="ss/appSS1.jpg" width='170'>
 
-![ss1](ss/appSS2.jpg)
+<img src="ss/appSS2.jpg" width='170'>
+
